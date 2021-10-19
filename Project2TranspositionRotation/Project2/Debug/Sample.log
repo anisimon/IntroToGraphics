@@ -1,0 +1,32 @@
+﻿  Sample.cpp
+C:\Users\benfi\Documents\Natasha\IntroToGraphics\Project2\Project2\Sample.cpp(417,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\benfi\Documents\Natasha\IntroToGraphics\Project2\Project2\Sample.cpp(418,27): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\benfi\Documents\Natasha\IntroToGraphics\Project2\Project2\Sample.cpp(419,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\benfi\Documents\Natasha\IntroToGraphics\Project2\Project2\Sample.cpp(423,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\benfi\Documents\Natasha\IntroToGraphics\Project2\Project2\Sample.cpp(425,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\benfi\Documents\Natasha\IntroToGraphics\Project2\Project2\Sample.cpp(762,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\benfi\Documents\Natasha\IntroToGraphics\Project2\Project2\Sample.cpp(763,15): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\benfi\Documents\Natasha\IntroToGraphics\Project2\Project2\Sample.cpp(763,8): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\benfi\Documents\Natasha\IntroToGraphics\Project2\Project2\Sample.cpp(776,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\benfi\Documents\Natasha\IntroToGraphics\Project2\Project2\Sample.cpp(777,15): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\benfi\Documents\Natasha\IntroToGraphics\Project2\Project2\Sample.cpp(777,8): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\benfi\Documents\Natasha\IntroToGraphics\Project2\Project2\Sample.cpp(780,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\benfi\Documents\Natasha\IntroToGraphics\Project2\Project2\Sample.cpp(799,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\benfi\Documents\Natasha\IntroToGraphics\Project2\Project2\Sample.cpp(801,44): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\benfi\Documents\Natasha\IntroToGraphics\Project2\Project2\Sample.cpp(802,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\benfi\Documents\Natasha\IntroToGraphics\Project2\Project2\Sample.cpp(803,44): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\benfi\Documents\Natasha\IntroToGraphics\Project2\Project2\Sample.cpp(805,43): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\benfi\Documents\Natasha\IntroToGraphics\Project2\Project2\Sample.cpp(806,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\benfi\Documents\Natasha\IntroToGraphics\Project2\Project2\Sample.cpp(807,44): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\benfi\Documents\Natasha\IntroToGraphics\Project2\Project2\Sample.cpp(817,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\benfi\Documents\Natasha\IntroToGraphics\Project2\Project2\Sample.cpp(825,59): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\benfi\Documents\Natasha\IntroToGraphics\Project2\Project2\Sample.cpp(826,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\benfi\Documents\Natasha\IntroToGraphics\Project2\Project2\Sample.cpp(827,60): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\benfi\Documents\Natasha\IntroToGraphics\Project2\Project2\Sample.cpp(829,61): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\benfi\Documents\Natasha\IntroToGraphics\Project2\Project2\Sample.cpp(830,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\benfi\Documents\Natasha\IntroToGraphics\Project2\Project2\Sample.cpp(831,60): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\benfi\Documents\Natasha\IntroToGraphics\Project2\Project2\Sample.cpp(863,22): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\benfi\Documents\Natasha\IntroToGraphics\Project2\Project2\Sample.cpp(863,19): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\benfi\Documents\Natasha\IntroToGraphics\Project2\Project2\Sample.cpp(863,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\benfi\Documents\Natasha\IntroToGraphics\Project2\Project2\Sample.cpp(1201,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Sample.vcxproj -> C:\Users\benfi\Documents\Natasha\IntroToGraphics\Project2\Project2\Debug\Sample.exe
