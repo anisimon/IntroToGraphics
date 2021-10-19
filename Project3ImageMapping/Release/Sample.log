@@ -1,0 +1,22 @@
+﻿  Sample.cpp
+C:\Users\benfi\Documents\Natasha\IntroToGraphics\Project3\sphere.cpp(61,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\benfi\Documents\Natasha\IntroToGraphics\Project3\sphere.cpp(62,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\benfi\Documents\Natasha\IntroToGraphics\Project3\sphere.cpp(63,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\benfi\Documents\Natasha\IntroToGraphics\Project3\sphere.cpp(66,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\benfi\Documents\Natasha\IntroToGraphics\Project3\sphere.cpp(67,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\benfi\Documents\Natasha\IntroToGraphics\Project3\sphere.cpp(68,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\benfi\Documents\Natasha\IntroToGraphics\Project3\sphere.cpp(78,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\benfi\Documents\Natasha\IntroToGraphics\Project3\sphere.cpp(79,37): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\benfi\Documents\Natasha\IntroToGraphics\Project3\sphere.cpp(83,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\benfi\Documents\Natasha\IntroToGraphics\Project3\sphere.cpp(84,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\benfi\Documents\Natasha\IntroToGraphics\Project3\Sample.cpp(578,21): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\benfi\Documents\Natasha\IntroToGraphics\Project3\Sample.cpp(578,16): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\benfi\Documents\Natasha\IntroToGraphics\Project3\Sample.cpp(1281,22): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\benfi\Documents\Natasha\IntroToGraphics\Project3\Sample.cpp(1281,19): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\benfi\Documents\Natasha\IntroToGraphics\Project3\Sample.cpp(1281,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\benfi\Documents\Natasha\IntroToGraphics\Project3\Sample.cpp(1325,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Generating code
+  Previous IPDB was built with incompatible compiler, fall back to full compilation.
+  All 33 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Sample.vcxproj -> C:\Users\benfi\Documents\Natasha\IntroToGraphics\Project3\Release\Sample.exe

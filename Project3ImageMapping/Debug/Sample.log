@@ -1,0 +1,4 @@
+﻿  Sample.cpp
+c:\users\cepribro\desktop\sample\sample\sample.cpp(1096): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Sample.vcxproj -> C:\Users\Cepribro\Desktop\Sample\Sample\Debug\Sample.exe
+  Sample.vcxproj -> C:\Users\Cepribro\Desktop\Sample\Sample\Debug\Sample.pdb (Full PDB)
