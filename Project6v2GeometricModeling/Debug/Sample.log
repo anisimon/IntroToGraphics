@@ -1,0 +1,11 @@
+﻿  Sample.cpp
+C:\Users\benfi\Documents\Natasha\IntroToGraphics\Project6v2\Sample.cpp(419,26): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\benfi\Documents\Natasha\IntroToGraphics\Project6v2\Sample.cpp(422,30): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\benfi\Documents\Natasha\IntroToGraphics\Project6v2\Sample.cpp(422,20): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\benfi\Documents\Natasha\IntroToGraphics\Project6v2\Sample.cpp(426,54): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\benfi\Documents\Natasha\IntroToGraphics\Project6v2\Sample.cpp(426,35): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\benfi\Documents\Natasha\IntroToGraphics\Project6v2\Sample.cpp(430,47): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\benfi\Documents\Natasha\IntroToGraphics\Project6v2\Sample.cpp(430,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\benfi\Documents\Natasha\IntroToGraphics\Project6v2\Sample.cpp(438,27): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\benfi\Documents\Natasha\IntroToGraphics\Project6v2\Sample.cpp(1241,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Sample.vcxproj -> C:\Users\benfi\Documents\Natasha\IntroToGraphics\Project6v2\Debug\Sample.exe
